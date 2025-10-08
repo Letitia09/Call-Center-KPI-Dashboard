@@ -1,0 +1,7 @@
+Scenario:
+
+A Manager in the Call Center (Help Desk) wants a Monthly KPI Dashboard.
+
+He wants to track how his employees are doing as well as some overall information about the calls.
+
+We are to create a dashboard to give him useful information about this data, but he isn't sure exactly what he wants.
